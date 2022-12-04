@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471386608032",
+    "project_id": "dprfood",
+    "storage_bucket": "dprfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471386608032:android:b576a630ad35c31bd4d4c5",
+        "android_client_info": {
+          "package_name": "com.ankurupadhyay.dprfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471386608032-h2h2g1fjjgtk8loau3divnpc6rbrvbrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4pURvdcNosYkaU7TsmTUJAOHMRsUSP6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471386608032-h2h2g1fjjgtk8loau3divnpc6rbrvbrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
